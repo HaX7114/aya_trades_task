@@ -8,7 +8,7 @@
  ### App Screen Record:
  https://user-images.githubusercontent.com/62621180/170602663-ff718527-43b8-4ff4-96c5-1474f46f0961.mp4
 
- ### Lignt Theme:
+ ### Light Theme:
  ![Light](https://user-images.githubusercontent.com/62621180/170602560-8cbf2d47-f90b-4582-a453-45507456fde9.jpg)
   
  ### Dark Theme:
@@ -21,4 +21,7 @@
 ### animate_do: ^2.0.0
 ### email_validator: ^2.0.1
 ### password_strength: ^0.2.0
+
+## Give it a Star 🌟
+## Thank You :)
 

@@ -6,7 +6,7 @@
 
 ### App View:
  ### App Screen Record:
- ![Record](https://user-images.githubusercontent.com/62621180/170602663-ff718527-43b8-4ff4-96c5-1474f46f0961.mp4)
+ https://user-images.githubusercontent.com/62621180/170602663-ff718527-43b8-4ff4-96c5-1474f46f0961.mp4
 
  ### Light Theme:
  ![Light](https://user-images.githubusercontent.com/62621180/170602560-8cbf2d47-f90b-4582-a453-45507456fde9.jpg)

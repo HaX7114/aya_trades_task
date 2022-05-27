@@ -4,7 +4,7 @@
 
 ## The themes created by me from scratch and it is extendable to add more themes :)
 
-##App View:
+### App View:
  ### App Screen Record:
  https://user-images.githubusercontent.com/62621180/170602663-ff718527-43b8-4ff4-96c5-1474f46f0961.mp4
 
